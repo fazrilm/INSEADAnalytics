@@ -12,6 +12,7 @@ output:
 
 The purpose of this exercise is to become familiar with:
 
+
 1. Basic statistics functions in R;
 2. Simple matrix operations;
 3. Simple data manipulations; 
